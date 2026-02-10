@@ -1,0 +1,39 @@
+Word 4 -grams:
+('Natural', 'language', 'processing', 'with')
+('language', 'processing', 'with', 'nltk')
+
+Character 4 -grams:
+Natu
+atur
+tura
+ural
+ral
+al l
+l la
+ lan
+lang
+angu
+ngua
+guag
+uage
+age
+ge p
+e pr
+ pro
+proc
+roce
+oces
+cess
+essi
+ssin
+sing
+ing
+ng w
+g wi
+ wit
+with
+ith
+th n
+h nl
+ nlt
+nltk
